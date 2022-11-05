@@ -1,9 +1,10 @@
-# About [repository-name]
+# About upd_domain_git_gioxx
 
-[![Dead Hosts Infrastructure Workflow](https://github.com/dead-hosts/[repository-name]/actions/workflows/main.yml/badge.svg)](https://github.com/dead-hosts/[repository-name]/actions/workflows/main.yml)
+[![Dead Hosts Infrastructure Workflow](https://github.com/dead-hosts/upd_domain_git_gioxx/actions/workflows/main.yml/badge.svg)](https://github.com/dead-hosts/upd_domain_git_gioxx/actions/workflows/main.yml)
 
 ```
-[description]
+UPD: Domains Only
+UPD in versione "solo domini", creata per il progetto https://github.com/blocklist-tools/blocklist-tools
 ```
 
 --------------------------------------------------------------------------------
