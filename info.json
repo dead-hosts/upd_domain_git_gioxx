@@ -6,8 +6,8 @@
     "finish_timestamp": 1667625384.478666,
     "last_download_datetime": "2020-12-29T19:32:02.781245",
     "last_download_timestamp": 1609270322.781245,
-    "latest_part_finish_datetime": "2022-11-05T20:09:58.909783",
-    "latest_part_finish_timestamp": 1667678998.909783,
+    "latest_part_finish_datetime": "2022-11-26T05:49:46.495937",
+    "latest_part_finish_timestamp": 1669441786.495937,
     "latest_part_start_datetime": "2020-12-29T19:32:02.781245",
     "latest_part_start_timestamp": 1609270322.781245,
     "live_update": true,
@@ -15,6 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://github.com/gioxx/xfiles/raw/master/domains/upd_domains.txt",
+    "repo": "upd_domain_git_gioxx/upd_domain_git_gioxx",
     "start_datetime": "2020-12-29T19:32:02.781245",
     "start_timestamp": 1609270322.781245
 }
